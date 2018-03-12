@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "591e741b-e30f-40c1-99b0-7a95b4c80de8",
+            "Value": {
+                "id": "8713c0d0-e6b9-420d-b59e-b9f536c2bf3c",
+                "resourcePath": "views\\591e741b-e30f-40c1-99b0-7a95b4c80de8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5b88850e-7279-4ab6-bd86-f9195ecbb250",
             "Value": {
                 "id": "86dc7269-6ca8-433c-a89a-a8bdd09e5171",
@@ -231,6 +239,14 @@
             }
         },
         {
+            "Key": "b06df183-df0a-4ad4-9a1f-560d75b7f943",
+            "Value": {
+                "id": "c61308ac-990e-4cf8-b69a-74a4dec96f0f",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b33b8574-5118-4bbb-bff7-f723b68ddc32",
             "Value": {
                 "id": "90443cec-37fa-4e29-b7ab-644cbcf687f4",
@@ -308,6 +324,14 @@
                 "id": "b0755154-8bc5-49a7-9629-ff37366082ea",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "ef793ffd-fe2b-42b9-8a20-aa3c29bfbe5c",
+            "Value": {
+                "id": "34da2ce4-62fd-4777-9165-18d0ec4778d9",
+                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourceType": "GMRoom"
             }
         },
         {

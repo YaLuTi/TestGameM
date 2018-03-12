@@ -164,9 +164,15 @@
             "visible": true
         }
     ],
+<<<<<<< HEAD
+    "origin": 0,
+    "originLocked": false,
+    "playbackSpeed": 8,
+=======
     "origin": 9,
     "originLocked": true,
     "playbackSpeed": 6,
+>>>>>>> f34baaee0189dca8999c1a964a0889a7fcf6dbc5
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,
     "sepmasks": false,
