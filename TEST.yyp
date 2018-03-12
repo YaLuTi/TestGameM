@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0ae6cabc-39bf-4e96-85d5-2765b5f8979b",
+            "Value": {
+                "id": "e5dc9eac-caa7-4aa7-b9f7-0f35da2253f5",
+                "resourcePath": "objects\\Player\\Player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0c9999ed-d3d5-4c1a-8655-8100590e09cc",
             "Value": {
                 "id": "baadcc79-df73-4ab6-a842-9869771b7983",
@@ -127,6 +135,14 @@
             }
         },
         {
+            "Key": "67d496d1-e492-46ef-a11b-9b3a1074cc5f",
+            "Value": {
+                "id": "b49cc82c-5057-4612-a3e7-c824d54622d3",
+                "resourcePath": "views\\67d496d1-e492-46ef-a11b-9b3a1074cc5f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7073b070-af39-477f-879b-d0996e01e7d1",
             "Value": {
                 "id": "f9348ae3-0576-4e51-a2f1-4f230073f8d9",
@@ -172,6 +188,22 @@
                 "id": "a53b0ab3-1d21-446f-8607-075c1a0b1f50",
                 "resourcePath": "views\\8cf26028-ea5f-4813-8090-2ac58eeb9bb1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9294a928-c01b-41df-b2f0-eec51fb0b121",
+            "Value": {
+                "id": "c66da42b-ad86-4c30-8c39-e8a86518f8ef",
+                "resourcePath": "objects\\Camera\\Camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "95c6dff6-6920-422d-a42e-b99374d23703",
+            "Value": {
+                "id": "536474d9-9553-4ab6-8ff7-9b2d781695e6",
+                "resourcePath": "sprites\\Cube\\Cube.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -236,6 +268,14 @@
                 "id": "3b9774cc-6b78-4148-b468-d9e0cc2e6780",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf8ab0d7-877f-4bcd-93a1-f0ca707533e4",
+            "Value": {
+                "id": "8beb99b4-afb9-4455-a7d9-3e848af1534d",
+                "resourcePath": "objects\\Block\\Block.yy",
+                "resourceType": "GMObject"
             }
         },
         {
