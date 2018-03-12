@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "7073b070-af39-477f-879b-d0996e01e7d1",
+            "Value": {
+                "id": "f9348ae3-0576-4e51-a2f1-4f230073f8d9",
+                "resourcePath": "sprites\\Gunfire\\Gunfire.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75ac291e-7061-4bcb-8e8a-3b3545332d41",
             "Value": {
                 "id": "c4dfdca6-daf3-45fb-9b4d-bdd4e03b571a",
